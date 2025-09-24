@@ -2,4 +2,4 @@
 Use it
 
 # References
-Utilized the pointnet++ model from https://github.com/yanx27/Pointnet_Pointnet2_pytorch with only minor changes to work on the Paris Lille dataset.
+Utilized the PointNet model from https://github.com/yanx27/Pointnet_Pointnet2_pytorch with changes to work on the Paris Lille dataset.
